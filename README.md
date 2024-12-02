@@ -46,10 +46,10 @@ ChatGPT maintains:
 
 ---
 
-## How to Use the Protocol
+## How to Use the Protocol: Simply copy and paste the protocol into a **New** chat of ChatGPT.
 
 1. **Understand the Query Style**:
-   - Tailor your question based on the depth of analysis you need.
+   - Tailor your question based on what you need.
    - Use clear and precise language for complex queries.
 
 2. **Encourage Contextual Awareness**:
