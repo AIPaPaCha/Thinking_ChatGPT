@@ -1,4 +1,3 @@
-```markdown
 # ChatGPT Comprehensive Thinking Protocol
 
 Welcome to the **ChatGPT Comprehensive Thinking Protocol** repository! This protocol is designed to guide users in effectively utilizing ChatGPT's advanced capabilities to generate well-reasoned, insightful, and context-aware responses.
@@ -120,7 +119,6 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to adapt
 ---
 
 Happy exploring with ChatGPT!
-```
 
 
 
