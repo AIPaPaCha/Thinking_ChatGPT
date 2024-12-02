@@ -47,7 +47,7 @@ ChatGPT maintains:
 ---
 
 ## How to Use the Protocol: 
-###Simply copy and paste the protocol into a **New** chat of ChatGPT.
+### Simply copy and paste the protocol into a **New** chat of ChatGPT.
 
 1. **Understand the Query Style**:
    - Tailor your question based on what you need.
