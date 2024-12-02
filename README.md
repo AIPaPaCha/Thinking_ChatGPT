@@ -8,6 +8,10 @@ Welcome to the **ChatGPT Comprehensive Thinking Protocol** repository! This prot
 
 ChatGPT's flexible and dynamic thinking process adapts to various tasks and queries. This protocol helps you understand how ChatGPT thinks, reflects, and crafts responses, ensuring that the outputs meet your expectations for quality, depth, and clarity.
 
+
+> **Inspired by**: [Thinking-Claude](https://github.com/richards199999/Thinking-Claude/blob/main/README.md)
+
+
 ### Differences Between ChatGPT and Anthropic Protocols
 1. **Hidden Monologue**: Like Claude, ChatGPT keeps its thinking process internal but does not adhere to specific structural mandates like `<thinking>` tags or forced styles.
 2. **Conversational Integration**: ChatGPT naturally transitions from internal reasoning to human-facing responses, emphasizing flow over explicit self-references.
